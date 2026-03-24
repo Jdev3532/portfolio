@@ -94,7 +94,7 @@ export default function ContactSection() {
                   <span>LinkedIn Profile</span>
                 </a>
                 <a
-                  href="mailto:contact@jerryyang.dev"
+                  href="mailto:jerry.dev35@hotmail"
                   className="flex items-center gap-3 text-muted-foreground hover:text-primary transition-colors"
                 >
                   <Mail className="w-5 h-5" />
