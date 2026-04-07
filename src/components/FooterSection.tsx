@@ -18,7 +18,7 @@ export default function FooterSection() {
           </nav>
 
           <a
-            href="https://www.linkedin.com/in/jerry-l-y-b628803b6/"
+            href="https://www.linkedin.com/in/jerry-l-yang/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-primary transition-colors"

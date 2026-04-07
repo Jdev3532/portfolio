@@ -85,7 +85,7 @@ export default function ContactSection() {
               <h3 className="font-heading font-semibold mb-4">Connect With Me</h3>
               <div className="space-y-4">
                 <a
-                  href="https://www.linkedin.com/in/jerry-l-y-b628803b6/"
+                  href="https://www.linkedin.com/in/jerry-l-yang/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-3 text-muted-foreground hover:text-primary transition-colors"
